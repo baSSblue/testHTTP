@@ -1,0 +1,24 @@
+{
+  "type": "string",
+  "count": "integer",
+  "status": "integer",
+  "message": "string",
+  "data": {
+    "id": "integer",
+    "publisher": "string",
+    "url": "string",
+    "thumb": "string",
+    "name": "string",
+    "description": "string",
+    "isbn": "string",
+    "year": "integer",
+    "edition": "string",
+    "pages": "integer",
+    "specialMarks": "string",
+    "classification": "string",
+    "authorAdditions": "string",
+    "authors": "string",
+    "bibliographicRecord":  "string",
+    "contentQuality": "integer"
+  }
+}
